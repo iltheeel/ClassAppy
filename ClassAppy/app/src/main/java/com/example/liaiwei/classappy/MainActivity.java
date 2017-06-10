@@ -13,7 +13,7 @@ import android.widget.Toolbar;
 
 public class MainActivity extends ListActivity {
 
-    private ListView mListView;
+    //private ListView mListView;
     String[] listItems = {
             "Physics", "Biology", "Chemistry", "English", "Cooking", "Geometry", "Calculus I"
     };
@@ -22,7 +22,7 @@ public class MainActivity extends ListActivity {
         super.onCreate(savedInstanceState);
 
         Toolbar myToolbar = (Toolbar) findViewById(R.id.my_toolbar);
-        setSupportActionBar(myToolbar);
+       // setSupportActionBar(myToolbar);
 
         //create listview
         setListAdapter(new ArrayAdapter<String>(this, R.layout.list_fruit,listItems));
@@ -40,5 +40,6 @@ public class MainActivity extends ListActivity {
         });
 
     }
+
 
 }

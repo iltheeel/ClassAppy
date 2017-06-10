@@ -1,0 +1,527 @@
+<resources>
+    <string name="app_name">MathFinal</string>
+
+    <string name="answer_key">http://www.google.com</string>
+
+    <string name="open_heading">Lord of the Derivatives:
+        \nOne Integral to Rule Them All
+    </string>
+
+    <string name="open_sub">
+         \nA text based choose your own adventure calculus game
+        \n\nBy Natalia Z., Rachana M. and Ivy L.
+    </string>
+
+    <string name="death"><bold>The End</bold></string>
+
+    <string name="story1">\t\t\tIt’s a tedious life you’re living in your little town of Al Gebra. For as long as you can
+        remember, you’ve had the same routine; before dawn, you wake up, milk your family’s cow
+        Ahmes, and scatter a few natural numbers about the pasture for your chickens. By the time
+        the sun climbs above the horizon, you’re yawning, and it’s not because you’re tired. If
+        someone drew a vertical line down the plane of your life, it would hit you twice-- you just
+        can’t function like this anymore.
+
+        \n\n\t\t\tSeriously, if you have to derive the quadratic formula one more time, you might just go the
+        way of . It’s hard to be rational when the only new math you get comes with the arrival of
+        Euclid and Hipparchus’s Traveling Circles. Besides, even they just left with their
+        trigotigers and trapezoid artists, and they won’t be back for another year.
+
+	    \n\n\t\t\tSighing, you remind yourself that at least your world is safe. You’ve got a system. More
+        specifically, you’ve got this system of equations. Still, if it’s anything to judge by,
+        your life is getting more and more boring more and more rapidly.
+
+</string>
+
+    <string name="title_activity_page1">page1</string>
+
+    <string name="story2">\t\t\tYou’re sitting in the center of your family’s stem-and-leaf plot,
+        scarfing down the same lunch you eat every day, when you hear footsteps pounding down the
+        road from town. “Listen, he’s here!” It’s your friend Ada, and she’s still panting, having
+        taken the trail at a sprint. As soon as she catches her breath, she starts to bounce on her
+        toes. You find your head nodding up and down rapidly to follow her.
+\n\n\t\t\t“Who’s here?”
+\n\n\t\t\t“I thought he was a myth, but no, it’s him! Here and in the flesh!”
+\n\n\t\t\t“Okay, but who?”
+\n\n\t\t\tShe takes a deep breath. “The integrator of integrals, the differentiator of derivators, the calculator of calculus! And he’s here!”
+\n\n\t\t\t“So you’ve said,” you begin automatically, but then the news sinks in. “Hang on, you mean to tell me that the Eminent Shay is here? In this town? In Al Gebra?”
+\n\n\t\t\t“Yes!” She starts to pull on your arm, yanking you towards the road, but you’re already shaking your head.
+\n\n\t\t\t“There’s no way. Why would he be here?”
+\n\n\t\t\t“I don’t know, but you’ve got to come. I’ll show you. I promise!”
+</string>
+
+    <string name="story3">\t\t\t“Look, Ada,” you begin, but she won’t take no for an answer.
+\n\n\t\t\t“Come on! You’re always talking about how bored you are, but whenever something
+        interesting happens, you don’t do anything! It’s almost as if you don’t want to go on an
+        adventure. You can’t just wait for things to come to you, you have to go to them!”
+\n\n\t\t\t“But--”
+\n\n\t\t\t“It’s Shay, for Newton’s sake!”
+\n\n\t\t\tYou sigh heavily. “Fine. I’ll go.”
+</string>
+
+    <string name="story4">
+         \t\t\tWhen the two of you arrive in town, the square is more crowded than you’ve ever seen it.
+    You stand on tiptoe, trying to get a glimpse of Shay, but somebody jostles you, knocking you to
+    the floor. “Hey!” you protest, but by the time you stand up again, they’re gone. In fact, far
+    removed from the noisy, unruly crowd from before, the audience in the square is transfixed,
+    staring at something about 10 feet above. You follow their gazes and gasp. Not only is it the
+    Great Shay, but he appears to be balanced atop the tangent line to a glowing graph of
+    y=10-x<sup><small>2</small></sup> at x=0. You start to think that he must have created an
+    approximation of the slope of the tangent by finding the slope of the secant line, but you
+    instinctively shake your head, knowing the magic is far more powerful than that.
+    \n\n\t\t\t“It is I, the Great Shay,” a booming voice rings out throughout the square.
+    “And I have come to find an apprentice among the people of Al Gebra.”
+    \n\n\t\t\tMurmurs of surprise rise from the crowd. He can’t, after all, be serious. The Great
+    Shay is legendary among the mathemagicians of the Crested Canyon. A master of everything from
+    basic addition to calculus of the Fifth Order, he is famed most of all for his mentoring
+    ability. If he truly is here to find an apprentice, the competition will be fierce. “I will
+    ask four and only four questions. Answer all questions correctly and you will join me as an
+    aspiring mathemagician. Answer any incorrectly and-” He shrugs elegantly and raises one eyebrow.
+    “Well, you won’t.”
+    \n\n\t\t\tYou glance over at Ada, whose mouth has dropped open. Noticing you watching, she
+    quickly shuts it, then grins at you, eyes gleaming.
+    \n\n\t\t\t“Who will enter my competition?” asks Shay, and before you can even think about
+    it, your feet take a step forward.
+    </string>
+
+    <string name="story5">\t\t\tShay’s gaze sweeps over those who have stepped forward, nodding approvingly at some and shaking his head at others. When he reaches you, he only raises an eyebrow. You gulp, not sure if that is good or bad. With a wave of Shay’s arm, the crowd around you vanishes, leaving you and the other competitors as the only ones in the square. It is almost eerily quiet until Shay’s voice breaks the silence. “The rules are simple. You will rely only on your mathematical knowledge and your intuition. Cheating will be punished severely. When you come to a final answer--” a tablet with the letters A, B, and C appears before each of the contestants “--select it on your tablet. Your tablet will also contain a calculator as you may need it. You will not be able to change your answer.” He pauses a beat, then flourishes his hand in the air, a question tracing itself in silver letters behind his fingers. “Good luck.”</string>
+
+    <string name="story6">\t\t\tCautiously, you select your answer, the letter B lighting up momentarily on your tablet. Nothing happens. Next to you, a boy chooses C and instantly vanishes; you realize that answering wrongly must immediately transport you out of the competition. You let out a breath of relief, shoulders sagging. You still have a chance of becoming Shay’s apprentice.
+\n\n\t\t\tShay scans the crowd, watching as nearly half of the others, person by person, transport out of the square. After five minutes, a group of perhaps 20 is left. “Congratulations,” says Shay drily. “But you aren’t done yet.” He waves his hand again, and another question appears, this time in gold:
+</string>
+
+    <string name="story7">\t\t\tYou select your answer, but the second your finger touches the tablet, there is a flash of white light. As your vision clears, you appear among a milling crowd that seems to be made up of some of the other contestants. You wonder aloud what has happened and earn only a gloomy glance from the girl next to you.
+\n\n\t\t\tPerhaps half an hour later, Shay appears and announces that a boy you hardly know-Blaise, you think is his name-has earned the right to become his apprentice. You feel a crushing sense of disappointment. Though you will grow up to live a long and safe life in your town of Al Gebra, you will always regret having lost the opportunity to become a mathemagician.
+</string>
+
+    <string name="story8">\t\t\tYou select your answer, but the second your finger touches the tablet, there is a flash of white light. As your vision clears, you appear among a milling crowd that seems to be made up of some of the other contestants. You wonder aloud what has happened and earn only a gloomy glance from the girl next to you.
+\n\n\t\t\tPerhaps half an hour later, Shay appears and announces that a boy you hardly know-Blaise, you think is his name-has earned the right to become his apprentice. You feel a crushing sense of disappointment. Though you will grow up to live a long and safe life in your town of Al Gebra, you will always regret having lost the opportunity to become a mathemagician.
+</string>
+
+    <string name="story9">\t\t\tYou press C on the tablet; again, nothing happens, and you sigh in relief. Another couple of minutes pass, leaving only seven students in the square. Shay nods and, without speaking, spreads a third problem in neon blue across the sky.</string>
+
+    <string name="story10">\t\t\tYou select your answer, but the second your finger touches the tablet, there is a flash of white light. As your vision clears, you appear among a milling crowd that seems to be made up of some of the other contestants. You wonder aloud what has happened and earn only a gloomy glance from the girl next to you.
+\n\n\t\t\tPerhaps half an hour later, Shay appears and announces that a boy you hardly know-Blaise, you think is his name-has earned the right to become his apprentice. You feel a crushing sense of disappointment. Though you will grow up to live a long and safe life in your town of Al Gebra, you will always regret having lost the opportunity to become a mathemagician.
+</string>
+
+    <string name="story11">\t\t\tYou select your answer, but the second your finger touches the tablet, there is a flash of white light. As your vision clears, you appear among a milling crowd that seems to be made up of some of the other contestants. You wonder aloud what has happened and earn only a gloomy glance from the girl next to you.
+\n\n\t\t\tPerhaps half an hour later, Shay appears and announces that a boy you hardly know-Blaise, you think is his name-has earned the right to become his apprentice. You feel a crushing sense of disappointment. Though you will grow up to live a long and safe life in your town of Al Gebra, you will always regret having lost the opportunity to become a mathemagician.
+</string>
+
+    <string name="story12">\t\t\tYou select your answer, but the second your finger touches the tablet, there is a flash of white light. As your vision clears, you appear among a milling crowd that seems to be made up of some of the other contestants. You wonder aloud what has happened and earn only a gloomy glance from the girl next to you.
+\n\n\t\t\tPerhaps half an hour later, Shay appears and announces that a boy you hardly know-Blaise, you think is his name-has earned the right to become his apprentice. You feel a crushing sense of disappointment. Though you will grow up to live a long and safe life in your town of Al Gebra, you will always regret having lost the opportunity to become a mathemagician.
+</string>
+
+    <string name="story13">\t\t\tYou select your answer, but the second your finger touches the tablet, there is a flash of white light. As your vision clears, you appear among a milling crowd that seems to be made up of some of the other contestants. You wonder aloud what has happened and earn only a gloomy glance from the girl next to you.
+\n\n\t\t\tPerhaps half an hour later, Shay appears and announces that a boy you hardly know-Blaise, you think is his name-has earned the right to become his apprentice. You feel a crushing sense of disappointment. Though you will grow up to live a long and safe life in your town of Al Gebra, you will always regret having lost the opportunity to become a mathemagician.
+</string>
+
+    <string name="story14">\t\t\tB, you decide, is the correct answer here. Fingers trembling-- you’re so close-- you press the letter on the tablet. About you, all but yourself and one other boy vanish. You think his name is Blaise, but you are not quite sure. He rarely speaks with the others; his family serves in the manor house on the edge of the village. You wonder if this is what he has been doing all these years he’s been on his own. His eyes are narrowed with a singular passion as the Great Shay acknowledges the both of you with one final problem.</string>
+
+    <string name="story15">\t\t\tYou select A. You do not vanish, and you look up in relief only to see the sadness in Shay’s eyes. “I’m sorry,” he says, looking directly at you, “but that is incorrect.” He turns to Blaise. “Blaise, congratulations. Welcome to your training.” Shay starts to walk away, gesturing at Blaise to follow. But you can’t let this happen. You’ve come too close to let your chance at escape from this town go now. Then again, do you really want to make a fool of yourself in front of Shay?
+</string>
+
+    <string name="story16">\t\t\tYou select B. You do not vanish, and you look up in relief to see the pride in Shay’s eyes. “Yes,” he says, looking directly at you, “that is correct. Welcome to your training.” He turns to Blaise. “Blaise, I’m sorry, but your answer is wrong.” Shay starts to walk away, gesturing at you to follow. You dash after him, heart thrumming.
+\n\n\t\t\tBut Blaise is unable to keep quiet. “Please! I’ve wanted to be a mathemagician all my life! I can’t--” he chokes up “--give up. Not now. Just give me a chance!”
+\n\n\t\t\tShay regards him for a second. “Fine. But your quest will be dangerous from here. You will need to be more careful and more clever than you know. Are you willing to take the risk?”
+\n\n\t\t\tBlaise nods fervently. “Of course.”
+\n\n\t\t\t“Then that is well. Both of you, follow me,” he says, and the three of you vanish in a burst of golden light.
+</string>
+
+    <string name="story17">\t\t\tYou are unable to keep quiet any longer. “Please! I’ve wanted to be a mathemagician all my life! I can’t--” you choke up, feeling tears at the corners of your eyes “--give up. Not now. Just give me a chance!”
+\n\n\t\t\tShay regards you for a second. “Fine. But your quest will be dangerous from here. You will need to be more careful and more clever than you know. Are you willing to take the risk?”
+\n\n\t\t\tYou nod fervently. “Of course.”
+\n\n\t\t\t“Then that is well. Both of you, follow me,” he says, and the three of you vanish in a burst of golden light.
+</string>
+
+    <string name="story18">\t\t\tNoting your silence, Shay waves his hand a final time, and you disappear in a flash of white light. As your vision clears, you appear among a milling crowd that seems to be made up of some of the other contestants. You earn only a gloomy glance from the girl next to you.
+\n\n\t\t\tPerhaps half an hour later, Shay appears alone and announces that Blaise has earned the right to become his apprentice. You feel a crushing sense of disappointment. Though you will grow up to live a long and safe life in your town of Al Gebra, you will always regret having lost the opportunity to become a mathemagician.
+</string>
+
+    <string name="story19">\t\t\tThe three of you reappear in a sun-drenched meadow, a cave rising suddenly out of the landscape before you. The Great Shay gestures to it. “If you are to become a mathemagician, you must test your skills on a journey of your own. This is where that journey begins. Your intuition and mathematical ability will serve you in equal measure.” He grins suddenly. “If you make it to the end, I’ll see you there. Good luck.” Without a further word, he vanishes.
+\n\n\t\t\tWhen you look closely, you can see an inscription on the cave door. It has a single problem on it, and three panels labeled A, B, and C are carved below the problem. You don’t doubt that if you want to enter the cave, you need to find the correct answer.
+</string>
+
+    <string name="story20">\t\t\tThe cave door rolls open to reveal a chamber filled with mounds of glittering gold and silver. It looks like the hoard of a dragon, but it is completely and totally deserted. A thin layer of dust coats piles of rubies and diamonds; tarnished silver mirrors and faded paintings line the walls. Blaise sights a side-tunnel and disappears, snapping at you when you make to follow. You don’t relish a journey with someone of his temperament, so you turn back to the treasure chamber. Perhaps there is another way out. Sure enough, further examination reveals a question sewn into a golden-threaded tapestry on the back wall. On pedestals in the middle of the room, a chalice, a sword, and a shield rest, each pedestal labeled with a letter. Instinctively, you know you can only choose one. Squinting at the problem in the tapestry, you begin to solve it:
+</string>
+
+    <string name="story21">\t\t\tThe cave door remains firmly shut. “Let me look at it,” says Blaise roughly, pushing past you. He spares a single glance at the problem before rolling his eyes.  “How could you get this wrong?” He presses B and slips through as the door grinds open. You make to follow him, but the door slams shut in your face, the inscription and panels vanishing into the rock. Clearly, you will have to find another way in.
+</string>
+
+    <string name="story22">\t\t\tThe cave door remains firmly shut. “Let me look at it,” says Blaise roughly, pushing past you. He spares a single glance at the problem before rolling his eyes.  “How could you get this wrong?” He presses B and slips through as the door grinds open. You make to follow him, but the door slams shut in your face, the inscription and panels vanishing into the rock. Clearly, you will have to find another way in.</string>
+
+    <string name="story23">\t\t\tYou poke around the base of the case, looking for some entrance you might have missed. Surely, one chance cannot be all you get. Indeed, after a couple minutes of looking, you spot an inscription on the opposite side of the cave.
+\n\nUnlock me with codeword or key,
+\nOr else wait before me and see.
+\nWhatever your choice, you can never look back;
+\nFor better or worse, you have chosen your track.
+\n\nSomeone has scratched a messy A above “codeword,” a B above “key,” and a C above “wait.” Below the poem, there is an integral. Unsurprisingly, it has three answer choices: A, B, and C.
+</string>
+
+    <string name="story24">\t\t\tYou wait. The cave door stands still, mocking you. It takes the
+        greater part of an hour for you to wonder if you might have answered the question wrong.
+        It takes another two for you to realize that you are alone with no conception of how to go home.
+        \n\n\t\t\tAfter what you are fairly sure is another half hour (though the sun does not move in the
+        sky above), you decide to search for food and drink. You are not hungry, nor are you thirsty-
+        in fact, your bodily sensations in general are curiously absent. Still, it seems like the
+        right thing to do. But every time you start to approach the meadow’s edge, the grassy expanse
+        spreads out anew before you. “This is an enchanted place,” you remember the Great Shay saying,
+        and you realize the meadow’s true nature.
+        \n\n\t\t\tYou are not tired, but you spread out on your back and watch the clouds scudding above. Here,
+        there is nothing to do but wait.
+        \n\n\t\t\tAnd wait, and wait, and wait.
+</string>
+
+    <string name="story25">\t\t\tWell, it seems that you have to say a codeword to enter the cave. Of course, it would help if you knew what that codeword was. Sighing, you rattle off a list of possibilities. “Uh… calculus. Integral. Derivative. Mathemagic. Convergent. Divergent. Position. Velocity. Acceleration. Um… series. Sequence?” You’re running out quickly, and the door isn’t showing any sign of budging. You have one last thing under your belt. It’s a long shot, but it’s worth a try. “Shay is the greatest mathemagician ever.”
+\n\n\t\t\tFor a second, nothing happens. Then there’s a loud creak, and the slab that has been covering the cave slides open. It reveals a roughly hewn tunnel with stone walls and a dirt floor. A lit torch has stained the wall black with soot, and you wonder first how long it has been lit, then who has been keeping it that way. Telling yourself it doesn’t matter, you step into the tunnel. The door slides shut behind you.
+\n\n\t\t\tYou have walked along the passage for some time when you come to a fork. There are three unpolished wooden doors, each labeled with a burnt letter. A wooden sign before you, staked into the ground and slightly askew, has a problem for you to solve.
+</string>
+
+    <string name="story26">\t\t\tAs the left door shuts behind you, the sound of claws scraping on stone echoes from the shadows. You stiffen as a shape prowls towards you, silhouetted against the guttering torch that provides the passage’s only light. “Why, hello,” it purrs, and your stomach drops as you realize what you’re facing. With the head of a woman and the body of an integraLion, the Sphin-solve-for-X is one of the most feared creatures in the math world. Her teeth glisten in the flickering light of the passage. “Care for some calculus?”
+        \n\n\t\t\tYou glance back, looking for an escape. The door behind you has disappeared, replaced by smooth stone. Gulping, you nod. “I suppose I have no choice.”
+        \n\n\t\t\tShe smiles enigmatically and points to the wall, where writing has appeared, seemingly carved into the stone. Squinting, you are just able to make the question out:
+        \n\n\t\t\tYou’d better solve the problem quickly. The Sphin-solve-for-X doesn’t look patient, and you have no doubt she’ll punish a wrong answer with something you don’t care to imagine...
+</string>
+
+    <string name="story27">\t\t\tAs the center door closes behind you, a sudden draft blows the torch ahead out. You inch forward in complete blackness, steps at first measured and slow. After a half-hour of walking, you quicken your pace, a light far ahead giving you hope that the passage will eventually end.
+\n\n\t\t\tIt comes as a surprise when you step forward only to find that your feet have no purchase on the empty air. You reach out, hoping to find a ledge, a nook, something; there is nothing but darkness. You scream, but the void below offers no answer. Just a deep, all-encompassing blackness.
+</string>
+
+    <string name="story28">\t\t\tAs the right door closes behind you, a snarl issues from the shadows ahead. You leap back, flattening yourself against the blank wall where the door was just in time to avoid the snapping teeth of what seems to be a velocity-raptor. Heart racing, you decide you preferred it when you thought the derivosaurs were extinct. This one, upon closer examination, is chained to the wall ahead, but the chain seems to be weakening under the strain of the velocity-raptor’s rage. In fact, it looks in grave danger of snapping. You don’t have much time at all.
+\n\n\t\t\tThere’s a bow and quiver attached to the wall just to your left, but above them is an inscription with two lettered panels and a problem. You tug on the bow, but it sticks fast. You hazard a guess that the only way to protect yourself from the advancing derivosaur is to solve the problem-- and quickly.
+</string>
+
+    <string name="story29">“Wrong!” the Sphin-solve-for-X shrieks, leaping at you. You try to dodge her blows, but she might well be a whirlwind with teeth and claws. You have time only to feel a brief instant of pain and regret before everything goes dark.
+</string>
+
+    <string name="story30">\t\t\t“Correct,” says the Sphin-solve-for-X, looking vaguely disappointed. In a rustling of fur, she moves to make way as you continue along the passage. The tunnel grows brighter as you walk along, the walls and floor turning from unpolished stone to smooth marble. You hear soft, tinkling notes, like a music box is being played somewhere in the distance. Before long, you come into a chamber filled with nothing but musical instruments. Each has a number carved in flowing script. You turn to survey the room, seeing violas, harps, cellos, all in pristine condition atop velvet-cushioned chairs. Whose are these? And why are they here?
+\n\n\t\t\tAs if in answer, a melodic voice rings out behind you. “I am the Concertmaster. It is not often that I meet travelers such as yourself. If you are to play with us, you must choose wisely.”
+\n\n\t\t\tYou wonder what he means by ‘us’ in the split second before the seats are filled with hundreds--no,
+        thousands-- of musicians. They sit eerily still, unsmiling, hands poised to play.
+        Only two seats are left open: one by a lyre and the other by a violin. “Choose,” says the
+        Concertmaster, raising his hand, and a question traces itself in silver in the air before you:
+</string>
+
+    <string name="story31">You press the left panel, and the velocity-raptor’s chain snaps. Shedding acceleration functions, it dashes at you with unnerving speed. You have time to feel only a jolt of terror before its teeth sever your head from your neck and your position is no longer in this world.</string>
+
+    <string name="story32">You press the right panel, and the bow and quiver fall to the floor. You notch an arrow and shoot, but it bounces harmlessly off the velocity-raptor’s scaly armor. Fruitlessly, you shoot until your arrows are spent. Your actions serve only to make the derivosaur angrier. Roaring, it pulls free from its chain. Shedding acceleration functions, it dashes at you with unnerving speed. You have time to feel only a jolt of terror before its teeth sever your head from your neck and your position is no longer in this world.
+</string>
+
+    <string name="story33">You are not quite sure why, but you shake slightly as you walk to sit by the lyre. The Concertmaster graces you with the ghost of a smile as you pick up the instrument. “You have chosen well.” Turning his gaze from you, he addresses the orchestra as a whole. “Play,” he commands in that melodic voice, and your fingers move seemingly without your direction. The tune that the musicians-- you-- play is familiar. A funeral dirge, you realize, minutes in. Or is it hours? Days? Years? The music does not end. But neither do your fingers tire. The dirge shifts to almost a waltz. Time passes, and the waltz becomes baroque. You fade, bit by bit, into the unsmiling ranks of the orchestra. New musicians come, and they, too, are taken by the Concertmaster. And as for you? By the time the next dirge is played, you do not remember your life from before. They call you Lyre, for your instrument, and you cannot recall ever having had another name.</string>
+
+
+    <string name="story34">You are not quite sure why, but you tremble as you move to sit by the violin. The Concertmaster smiles at you, but there is something savage, something primal in his eyes. “Play,” he commands in that melodic voice, and the orchestra strikes up a funeral dirge. Your own hand drifts helplessly to the violin’s bow, and you notice suddenly that its string is made not of horsehair but of gleaming steel. Without your direction, your fingers grasp the bow, lift it to your throat, and, before you can stop yourself, slice once, twice, three times. Blood gurgles from the wound, and you choke. You try to press your hands to your throat to staunch the bleeding, but your hands refuse to obey your mind’s commands. Instead, they lovingly bend to the violin, joining in the dirge. As you gasp for breath, growing dizzier and dizzier as the blood loss grows too much to bear, you realize that the mourning song is your own.</string>
+
+
+    <string name="story35">incomplete story</string>
+
+
+    <string name="story36">incomplete story</string>
+
+
+    <string name="story37">incomplete story</string>
+
+
+    <string name="story38">incomplete story</string>
+
+
+    <string name="story39">incomplete story</string>
+
+
+    <string name="story40">incomplete story</string>
+
+
+    <string name="story41">incomplete story</string>
+
+
+    <string name="story42">incomplete story</string>
+
+
+    <string name="story43">incomplete story</string>
+
+
+    <string name="story44">You turn the corner and stare straight into the open maw of a giant
+        Venus Y-Axis. Its mouth snaps closed, severing your head and torso from your legs in a
+        split second. Your dy-ing impression is a range of sensations and colors, the red of the
+        monster plant’s innards fading fuzzily to black.</string>
+
+    <string name="story45">incomplete story</string>
+
+
+    <string name="story46">\t\t\tYou lunge for the cater-polar’s eyes, clawing and gouging at them with every last bit of energy that desperation has lent you. The cater-polar lets out a ragged shriek and collapses, writhing, on the ground. Behind it, you see, there is a door in the side of the greenhouse. Stepping carefully around the still-convulsing form, you turn the knob and push slowly.
+	\n\n\t\t\tYou are hit with a blast of heat; a gust of wind sends sand swirling into your eyes. A desert, you realize, and step through the threshold to look for a sign of your path from here. You see only dunes as far as your gaze reaches. It is, you think, a desiccated world. Turning back to the greenhouse, you make to retrace your steps. But the door has sealed itself against you. You bang on the wall to no effect, finally turning hopelessly back to the dunes. Perhaps there is some path you have yet to see.
+\n\n\t\t\tIt takes a near half-hour of fruitlessly scanning the horizon to convince you that you are both trapped and alone. The sun beats down mercilessly on the barren landscape. There is no life for hundreds of miles.
+</string>
+
+
+    <string name="story47">incomplete story</string>
+
+
+    <string name="story48">incomplete story</string>
+
+
+    <string name="story49">incomplete story</string>
+
+
+    <string name="story50">incomplete story</string>
+
+
+    <string name="story51">incomplete story</string>
+
+
+    <string name="story52">incomplete story</string>
+
+
+    <string name="story53">\t\t\tAs if in a trance, you drift to the shelf and make to pull out the book you chose. It seems to be stuck. You yank harder, and the shelf gives an ominous creak. You jump back, but it’s too late. Time seems to slow as the shelf falls towards you; you realize with cold clarity that the book was booby trapped. That, however, is the last thing you have a chance to realize as the bookcase and its contents hit you, crushing you instantly.
+\n\n\t\t\tHours later, when the librarian finds your body, she clucks disapprovingly about the mess and raises one eyebrow in reproach. “I did tell them to choose the right book.”
+</string>
+
+
+    <string name="story54">\t\t\tAs if in a trance, you drift to the shelf and make to pull out the book you chose. It seems to be stuck. You yank harder, and the shelf gives an ominous creak. You jump back, but it’s too late. Time seems to slow as the shelf falls towards you; you realize with cold clarity that the book was booby trapped. That, however, is the last thing you have a chance to realize as the bookcase and its contents hit you, crushing you instantly.
+\n\n\t\t\tHours later, when the librarian finds your body, she clucks disapprovingly about the mess and raises one eyebrow in reproach. “I did tell them to choose the right book.”
+</string>
+
+
+    <string name="story55">incomplete story</string>
+
+
+    <string name="story56">\t\t\tAs if in a trance, you drift to the shelf and make to pull out the book you chose. It seems to be stuck. You yank harder, and the shelf gives an ominous creak. You jump back, but it’s too late. Time seems to slow as the shelf falls towards you; you realize with cold clarity that the book was booby trapped. That, however, is the last thing you have a chance to realize as the bookcase and its contents hit you, crushing you instantly.
+\n\n\t\t\tHours later, when the librarian finds your body, she clucks disapprovingly about the mess and raises one eyebrow in reproach. “I did tell them to choose the right book.”
+</string>
+
+
+    <string name="story57">\t\t\tPull out book and bookshelf reveals a cavity that exactly fits one thing. Not a sword. Not a shield. A chalice. You shake your head back and forth insistently. This can’t be happening. You beg the librarian to see if there’s some other way, but she shakes head sadly. “How do you think I ended up here, child?” At first, you don’t believe her. But after a couple days of searching, you are resigned to your fate. There’s food and water here, at least, and it appears daily. Besides, you’ve always liked to read.
+</string>
+
+
+    <string name="story58">incomplete story</string>
+
+
+    <string name="story59">\t\t\tAs if in a trance, you drift to the shelf and make to pull out the book you chose. It seems to be stuck. You yank harder, and the shelf gives an ominous creak. You jump back, but it’s too late. Time seems to slow as the shelf falls towards you; you realize with cold clarity that the book was booby trapped. That, however, is the last thing you have a chance to realize as the bookcase and its contents hit you, crushing you instantly.
+\n\n\t\t\tHours later, when the librarian finds your body, she clucks disapprovingly about the mess and raises one eyebrow in reproach. “I did tell them to choose the right book.”
+</string>
+
+
+    <string name="story60">\t\t\tYou gingerly pull out the book. Dust swirls off the cover; the book has not been moved in a long while. In the empty space where the tome was previously, there is an indentation that clearly fits one, and only one, thing. A chalice. Thanking your lucky stars that you chose the right object, you set the chalice in the niche. There is a clicking sound as the bookcase retracts into the ceiling, revealing a staircase below. You follow it down to three doors-- one covered in a mosaic, another paneled and painted pale pink, and the third made of vine-covered stone. As the bookcase rumbles back into place, the dust of the passage momentarily drifts into the shape of a math problem. You hardly have the time to commit it to memory before it is no longer legible:</string>
+
+
+    <string name="story61">\t\t\tAs if in a trance, you drift to the shelf and make to pull out the book you chose. It seems to be stuck. You yank harder, and the shelf gives an ominous creak. You jump back, but it’s too late. Time seems to slow as the shelf falls towards you; you realize with cold clarity that the book was booby trapped. That, however, is the last thing you have a chance to realize as the bookcase and its contents hit you, crushing you instantly.
+\n\n\t\t\tHours later, when the librarian finds your body, she clucks disapprovingly about the mess and raises one eyebrow in reproach. “I did tell them to choose the right book.”
+</string>
+
+
+    <string name="story62">incomplete story</string>
+
+
+    <string name="story63">incomplete story</string>
+
+
+    <string name="story64">\t\t\tYou close the mosaic door behind you as you step out onto the floor of a large stone arena. Intricately carved columns rise from the ground next to you into the clear blue of the sky  above. In the stands, the crowd lets out a thousands-strong roar. Where, you wonder, are the contestants? You look around the floor, but the only person on the stage of the arena is you.
+\n\n\t\t\tThere is a sinking sensation in the pit of your stomach as the truth hits you. You cast around frantically for an exit, but just then, a dragon explodes from one of the arena’s other doors. Wait, that’s not just any dragon! That’s the Partial Fraction Decompodragon! The crowd cheers even louder, but your heart sinks. There’s no way for you to know what to do here. Unless… when Shay sent you off, you remember, he had only two pieces of advice. The first was to trust in your own numerical knowledge. The second was to trust in your own intuition.
+Intuition. Thinking off the top of your head, you can think of only three things you might be able to do and survive: tame the dragon, run away from the dragon, and fight the dragon. Trusting your intuition, you randomly assign each a letter (A to tame, B to run, and C to fight). You are just about to choose when the Partial Fraction Decompodragon breathes fire-- and the flame twists into a PFD problem. That can’t be a coincidence.
+</string>
+
+
+    <string name="story65">incomplete story</string>
+
+
+    <string name="story66">\t\t\tAs you sprint for the mousehole, the room begins to shake more intensely.
+\n\n\t\t\t“WHAT IS THAT I SEE?”
+\n\n\t\t\tYou run still faster, but you can’t outpace the giant as he strides across the room and dangles you by one leg before his face. “IT RUNS FOR THE MOUSEHOLE, BUT I DO NOT THINK IT IS A MOUSE.” He frowns, the forest of hairs that is his eyebrow crinkling as if blown by a gust. “RATHER UNUSUAL, IT IS.” You say nothing. You are trembling too hard to speak without your teeth knocking together.
+\n\n\t\t\tHe looses a massive sigh, and you sway helplessly in the pungent wind of his exhale. “STILL, VERMIN IS VERMIN.”
+\n\n\t\t\tAnd with that, he drops you. You have a second to marvel at the height-- that of a five-story building-- before the final impact. When the impact comes, it shatters your skull and pulverizes your bones, killing you instantly.
+</string>
+
+
+    <string name="story67">incomplete story</string>
+
+
+    <string name="story68">incomplete story</string>
+
+
+    <string name="story69">incomplete story</string>
+
+
+    <string name="story70">incomplete story</string>
+
+
+    <string name="story71">\t\t\tYou dash in the direction of the dining room. If you can just get to that door, just make it in time to lock it behind you, you’ll be safe. But the whistling sound behind you grows more and more incessant, and the heat of the steam rolling off the automaton begins to envelop you. You can’t run any longer. Panting, you turn to face the automaton. “Please,” you beg, the sound pitiful to even your own ears.
+\n\n\t\t\tThe automaton just gives a slow, wide smile, if a mechanical creature can even smile. “Would you like some tea?” it asks again, and as it reaches its arms out to you, a torrent of boiling water rains from the ceiling.
+</string>
+
+
+    <string name="story72">\t\t\tYou crouch in the corner of the closet, trying to quiet your breathing. Perhaps the automaton will not find you behind the mass of lace and satin that blocks you from sight. Outside, you hear a bang and then a crack as the bedroom door slams open. You can hear the automaton pulling the quilt off the bed, yanking open drawers, leveling the room in its furious quest to find you.
+\n\n\t\t\tAnd then there is a sudden flash of light as the closet door is torn off its hinges. There is a split second before you are yanked out by one leg, face to face with the automaton once more. “Please,” you beg, the sound pitiful to even your own ears.
+\n\n\t\t\tThe automaton just gives a slow, wide smile, if a mechanical creature can even smile. “Would you like some tea?” it asks again, and as it reaches its arms out to you, a torrent of boiling water rains from the ceiling.
+</string>
+
+
+    <string name="story73">\t\t\tYou run to the window and attempt to throw it open, but it sticks fast. With all your might, you pull, hearing the automaton banging furiously on the door behind you. Finally, the window opens halfway. It isn’t enough, but you desperately wiggle into the space it leaves, first head, then shoulders, then--
+\n\n\t\t\tYou can’t move forward anymore. You feel tears running down your face as you squirm frantically, hoping beyond hope that you’ll break free. But the window frame doesn’t yield a centimeter.
+\n\n\t\t\tThere is an enormous crack as the bedroom door slams open. It takes only a split second for you to be yanked back into the room by one leg, face to face with the automaton once more. “Please,” you beg, the sound pitiful to even your own ears.
+\n\n\t\t\tThe automaton just gives a slow, wide smile, if a mechanical creature can even smile. “Would you like some tea?” it asks again, and as it reaches its arms out to you, a torrent of boiling water rains from the ceiling.
+</string>
+
+
+    <string name="story74">\t\t\tYou hold out one arm to the dragon, point at the ground, and order, “Sit!” Confused, the dragon cocks its head to one side, but even as it does, its body obeys. You’ve never had a dog, but for a second, the fearsome Partial Fraction Decompodragon looks a whole lot like an overgrown version of your friend Ada’s Cartesian Spaniel. In fact, it appears to be waiting for something. On the part of its belly that is now exposed, there is another PFD problem. Deciding that instinct has served you well so far, you rapidly cast back in your memory and assign each command you can remember Ada giving her dog a value. “Roll over” becomes 1, “lie down” becomes 2, and “stay” becomes 3.</string>
+
+
+    <string name="story75">\t\t\tYou begin to run from the Partial Fraction Decompodragon only to be whacked over the head by one of its massive claws. There is a searing pain in your forehead, and when you reach up to touch it, your hand comes away red. Pressing one palm to your face to staunch the bleeding, you use your other hand to pick up the sword on the ground, glaring at the dragon. “All right, buddy,” you growl under your breath. “You want to play hard? Let’s.”
+</string>
+
+
+    <string name="story76">\t\t\tStooping to pick up the sword, you turn from the Partial Fraction Decompodragon only to be whacked over the head by one of its massive claws. There is a searing pain in your forehead, and when you reach up to touch it, your hand comes away red. Pressing one palm to your face to staunch the bleeding, you use your other hand to grab the sword from the ground, glaring at the dragon all the while. “All right, buddy,” you growl under your breath. “You want to play hard? Let’s.”
+</string>
+
+    #FIX THE IOC DIVERGE THING
+    <string name="story77">incomplete, missing problem</string>
+
+
+    <string name="story78">\t\t\tYou strike on the Partial Fraction Decompodragon’s right, and the blow lands. Roaring, the dragon rears up as golden ichor leaks from its damaged hide. It lets out a gust of anguished purple flame that forms what may be its last equation, and you realize you have a choice: A. kill the dragon or B.treat it with mercy.
+</string>
+
+
+    <string name="story79">
+\t\t\tYou strike on the Partial Fraction Decompodragon’s left, and the blow bounces off harmlessly. Truly angered now, the dragon rears up and claws you across the torso. Flapping its wings to hover above you, it lets out a gust of furious red flame that singes your hair. You can feel the life leaving your body already. Maybe the problem in the red flame will provide the answer. Do you...
+        \n\n\t\t\t\t\t\t\t A. Stand to fight one last time
+        \n\n\t\t\t\t\t\t\t B. Just wait to die
+</string>
+
+
+    <string name="story80">\t\t\tYou slice through the dragon’s neck, making one clean sweep from its right side to its left. As the head of the now-lifeless dragon thuds to the floor, the sounds echoes across the silent arena. Too late, you look up to realize that the crowd has risen collectively to its feet and that each and every pair of eyes is trained with complete hatred on you. You’ve ruined their sport, you see. And based on how poised they seem now to jump into the ring, you’ll soon pay for that.
+</string>
+
+
+    <string name="story81">\t\t\tYou let your sword clatter to the ground, numbly watching the dragon’s ichor drip from its wound to pool on the arena floor. The dragon, its movements slowing, curls up on the floor. The expression in its eyes is familiar; with a start, you realize that it it is not pure, animalistic pain but grief. You reach out to stroke the dragon’s head, then pause and draw back your hand, thinking better of it. The Partial Fraction Decompodragon lets out a final sigh and stills. Time seems to freeze.
+\n\n\t\t\tThe arena is utterly silent. Too late, you look up to realize that the crowd has risen collectively to its feet and that each and every pair of eyes is trained with complete hatred on you. You’ve ruined their sport, you see. And based on how poised they seem now to jump into the ring, you’ll soon pay for that.
+</string>
+
+
+    <string name="story82"></string>\t\t\tYou raise your sword above your head with both hands, the
+    blood loss from your forehead already making you dizzy. “For Shay!” you cry, charging the
+    Partial Fraction Decompodragon. Bellowing, the dragon looses a cloud of blue flame. You try to
+    duck, but this time, your reflexes are not fast enough. Within seconds, you are turned to ash,
+    skin and bones alike falling to a soft pile of black and gray on the arena floor.
+
+
+    <string name="story83">\t\t\tYou let your sword clatter to the ground and take your hand off your forehead, numbly watching the blood drip from your wound to pool on the arena floor. Dizzily, you sit down and collapse on the ground. The dragon cocks its head in confusion before realizing that you no longer intend to fight. You tense as it flaps slowly over to you, but it means only to comfort you. As you bleed out, it curls up next to you in penitence, protectively folding a wing over your body. The rhythm of its steady breathing is the last thing you hear before everything goes dark.</string>
+
+    #FIX INSERT ANSWERS
+    <string name="story84">“Roll over,” you say to the dragon, and it rolls to expose the soft, almost mesh-like scales on its belly. Remembering Ada with her dog, you timidly scratch the dragon’s belly. The dragon wriggles in joy and lets out a small burst of purple flame that explodes like a firework. The crowd around you seems confused, as if it has finally realized that you aren’t fighting. You hear discontented murmurs from the stands, and you realize you probably should leave before something worse happens.
+The dragon seems to be getting much the same sense. It stands, shaking itself, and it is seemingly about to fly when it remembers you. Crouching, it gestures with its head in the direction of its back and lets out another bubble of purple flame. You take the hint and mount the dragon’s back. It shifts under you and tilts its head back so you can put your arms around its neck.
+“Go,” you tell the Partial Fraction Decompodragon, pointing to the sky with the hand not holding on to its neck, and it takes off, leaving behind the arena. But do you go north or south? To the north, a cerulean sea spreads to the horizon, its waves crashing on the beach looking oddly like the number e<sup><small>a</small></sup> from this angle. To the south, a mountain range stretches into the sky, its crags twisting together in a giant number 0. The clouds before you form a math problem, and you know what you must do.
+</string>
+
+
+    <string name="story85">\t\t\t“Down,” you tell the dragon, and its eyes narrow. You realize that you have said the wrong thing as it stalks towards you slowly. Its claws curl in and out, tail twitching back and forth. A ball of dread forms in the pit of your stomach, and you back away warily, still watching the dragon closely. You aren’t quite sure what part of your command has aggravated the dragon, but you clearly need to try something different. Are things bad enough that you need to curl up in a ball and hope the dragon doesn’t hurt you (A)? Or should you tell the dragon to sit again and start from scratch (B)? The dragon hisses out a cloud of green fire, and within the flame, a problem appears:</string>
+
+
+    <string name="story86">\t\t\t“Stay,” you tell the Partial Fraction Decompodragon. It wiggles on its haunches, looking antsy and mildly uncomfortable. You look it straight in the eyes. “Good boy.” Boy? Girl? Do dragons have a concept of gender? But this dragon seems amenable to you calling it “good boy.” Its tail starts to wag back and forth.
+\n\n\t\t\tBehind you, you spot a door. You back slowly in its direction-- after all, you do want to become a mathemagician eventually, and you can’t do that if you die in an arena somewhere. Realizing what’s going on, the dragon whimpers and inches in your direction.
+\n\n\t\t\t“No. Stay.” You turn and walk more quickly in the direction of the exit. Seconds later, you hear bounding steps behind you as the dragon leaps in your direction. “Wait!” you start, but it’s too late.
+\n\n\t\t\tThe blow to your neck is so swift you hardly have time to register it before your head snaps to the side, killing you instantly. The dragon hadn’t meant to hurt you; it had just wanted its new friend to stay and play. Humans, it seems, are uncommonly fragile creatures.
+</string>
+
+
+    <string name="story87">\t\t\t“North,” you whisper to the Partial Fraction Decompodragon, and, spreading its wings, it soars towards the glittering, distant sea. You shiver as a chill sea breeze passes over you and fervently wish you had a cloak; as if in response, the dragon’s hide below you warms. You stroke its neck in gratitude. It lets out a low rumble that is vaguely reminiscent of a cat’s purr and dives down into the clouds, doing a joyful loop-de-loop.
+	\n\n\t\t\tAs a child, you’d pictured flying in the clouds as being enveloped in a blanket of clean, soft wool. But the air surrounding you is cold and clammy. You are beginning to ask the Partial Fraction Decompodragon to leave the clouds when the gust hits. The wind buffets the both of you as heavily as you’ve ever felt, and the dragon’s wings struggle against the force. You aren’t sure how much longer it can hold out. In the howling surrounding you, you swear you can hear a math problem in constant refrain.
+        \n\n\t\t\tDo you give in to the gale and hope it takes you where you need to be (B)? Or do you fly straight up and bank on the dragon being strong enough to escape the clouds (A)?
+</string>
+
+
+    <string name="story88">\t\t\t“North,” you whisper to the Partial Fraction Decompodragon, and, spreading its wings, it soars towards the glittering, distant sea. You shiver as a chill sea breeze passes over you and fervently wish you had a cloak; as if in response, the dragon’s hide below you warms. You stroke its neck in gratitude. It lets out a low rumble that is vaguely reminiscent of a cat’s purr and dives down into the clouds, doing a joyful loop-de-loop.
+	\n\n\t\t\tAs a child, you’d pictured flying in the clouds as being enveloped in a blanket of clean, soft wool. But the air surrounding you is cold and clammy. You are beginning to ask the Partial Fraction Decompodragon to leave the clouds when the gust hits. The wind buffets the both of you as heavily as you’ve ever felt, and the dragon’s wings struggle against the force. You aren’t sure how much longer it can hold out. In the howling surrounding you, you swear you can hear a math problem in constant refrain.
+        \n\n\t\t\tDo you give in to the gale and hope it takes you where you need to be (A)? Or do you fly straight down and bank on the dragon being strong enough to escape the clouds (B)?
+</string>
+
+
+    <string name="story89">\t\t\tInstinctively, you drop to the ground and roll into a ball. Putting your hand over your neck to protect it from the dragon’s blows, you originally don’t hear the murmuring from the stands. “What are they doing? Idiot.”
+\n\n\t\t\tYou bristle and, still in a ball, roll over a couple times to show you can hear what they are saying. Heck, a roly-Polar isn’t as good at rolling into a ball as you are!
+\n\n\t\t\tFrom above, you swear the Partial Fraction Decompodragon sighs. Then there’s a blast of heat as you are turned to a pile of ash on the arena floor.
+</string>
+
+
+    <string name="story90">\t\t\t“Sit,” you say again to the dragon, and it obeys reluctantly. But its eyes remain narrowed, and its claws continue to twitch in and out of the ground. Your mind blanks. You can’t remember any more commands. Whatever you do, you’ve got to decide quickly. The dragon doesn’t look like it will be patient much longer. Smoke drifts out of its snout, and the wisps reform into a math question. On the other side of the arena, there is a door. Do you…
+    \n\n\t\t\tA. Make a run for the exit
+        \n\n\t\t\tB. Stand your ground
+    </string>
+
+
+    <string name="story91">\t\t\tNot much happens. What were you expecting? The Partial Fraction Decompodragon shifts restlessly. You’ve really got to think of something better. Should you have made a run for the door(A)?
+\n\n\t\t\tBut in the dragon’s amber eyes, there is a spark of something more than you would imagine from a wild creature. Perhaps it is conscious of more than you know. Perhaps you can convince it that both of you are prisoners in this ghastly arena, and that you will both be better off if you can escape. Then again, maybe not. Still, should you at least try (B)?
+\n\n\t\t\tThe Partial Fraction Decompodragon rises. As it spreads its wings, you catch a glimpse of a problem on its left wing:
+</string>
+
+
+    <string name="story92">\t\t\tNot giving the decision so much as another second of thought, you dash for the door. Your breathing is heavy and your footsteps are quick as you break for the exit. Maybe, just maybe, you can make it. Maybe, just maybe, you will be able to continue on your quest to become a mathematician.
+\n\n\t\t\tBut you are not nearly fast enough. From behind, the earth begins to shake as the Partial Fraction Decompodragon lets out a gigantic growl. There is a blast of heat as you are turned to a pile of ash on the arena floor.
+</string>
+
+
+    <string name="story93">\t\t\t“Listen,” you begin, looking the Partial Fraction Decompodragon straight in the eyes, “we’re the same, you and I.” The dragon rolls its eyes almost imperceptibly, but it doesn’t move to incinerate you, which is a good start. “We’re both trapped in this place--” you gesture all around you “--and they’ve tried to pit us against each other. Don’t you see? If we let that happen, we lose, and they win!”
+\n\n\t\t\tThe dragon snorts and cocks its head questioningly. It is probably wondering which “they” is the object of your anger. To tell the truth, you are not quite certain either, but above, unhappy murmurs rise from the crowd. Gulping, you continue at a lower volume.
+\n\n\t\t\t“You and I… we can escape. Together. Don’t you want to do that?”
+\n\n\t\t\tThe dragon grumbles, but it nevertheless gestures with its head in the direction of its back, crouching down. You take the hint and mount the dragon’s back. It shifts under you and tilts its head back so you can put your arms around its neck.
+\n\n\t\t\tBut the crowd will not allow their sport to be ruined. Before the dragon can take off, an arrow-- no, a hail of arrows-- shoots from the stands, impaling you both. You let out a soft gasp as the pain hits, then tumble off the dragon’s back, falling limply to the ground. In the space of a couple minutes, you and the dragon both lie dead on the arena floor, red blood mingling with golden ichor. Escape will not come for either of you this time.
+</string>
+
+
+    <string name="story94">\t\t\tThe Partial Fraction Decompodragon struggles against the wind. “DON’T FIGHT THE STORM!” you yell over the surrounding noise. At first, you think the dragon hasn’t heard. But after a few more feeble wingbeats, it stops flapping and lets the wind carry the both of you. You are not sure how long the gale lasts. It could be seconds, minutes, hours. But suddenly, mountain peaks rise up around you-- too close, too fast. A boulder clips the dragon’s left wing, and it lets out a pained bellow. You look over to see that the delicate membrane is torn. There is an awful, ragged whistling coming from the hole. The dragon flaps frantically, trying to make up the height it has lost, but it is not strong enough to compensate for its torn wing. Its wings buckle beneath it, and the two of you fall, fall, fall to crash against the rocks below.
+</string>
+
+
+    <string name="story95">\t\t\tAt a shout from you to “FLY DOWN,” the Partial Fraction Decompodragon folds its wings in and drops like a stone. You hold on for dear life as it falls, the wind around you dying down. “Okay,” you mutter nervously after a few seconds, “I think we’re okay.” With a rustling like paper unfolding, the dragon spreads its wings and glides, coming to a smooth stop on a rocky mountainside. Snorting, it shakes itself to ward off the chill. Night, after all, is already beginning to fall. The sun is setting across the plains to the west. You decide the two of you ought to find a place to rest for the night. As luck would have it, there is a cave mouth less than ten paces away. You climb off the dragon and pick your way towards the cave, the dragon creating a couple of small landslides as it follows you.
+\n\n\t\t\tThe inside of the cave is dark and musty. The dragon lets out a low growl and sends out a burst of flame to illuminate your surroundings. In the far back of the cave is the silhouette of a boy. “Who’s there?” you call out warily. The boy moves forward. It’s the other apprentice, and as he steps into the light of the flame, you see that he is wearing a suit of night-black armor.
+\n\n\t\t\t“Blaise!” you say, even as you sense that behind you, the dragon’s hackles are up. You reach out a hand to stroke its head, but it shakes you off and snarls softly. “I didn’t expect to see you here.” He does not respond, and you continue on, half-babbling despite your best efforts. “Good to see a friendly face on a night like this. I think we’re getting close to the end, don’t you?”
+\n\n\t\t\t“Yes,” says Blaise with a nasty smile. He unsheathes an obsidian sword, and his eyes take on a faraway cast, like he’s solving an equation you cannot see. With a quick, fluid movement, he stabs the Partial Fraction Decompodragon in its right side and pulls out the blade just as fast. The dragon lets out a startled whimper, like that of a kicked dog, and falls still. As you back away, he advances on you rapidly, viciously. “It really is pleasant to see you again.”
+</string>
+
+
+    <string name="story96">\t\t\tAt a shout from you to “FLY UP,” the Partial Fraction Decompodragon flaps with renewed energy, each new wingbeat drawing you farther and farther above the gale. Relieved, you exhale, stroke the dragon’s head in gratitude, and examine your surroundings. Atop the clouds, the air is warm and still. The gray and white begins to disperse before you until all you can see is the clear blue of the ocean below. You fly with the dragon for hours in quiet companionship, neither of you knowing quite what you are looking for.
+\n\n\t\t\tAs the sun is beginning to set, you find it on the horizon. A barren island. Buffeted by wind and sea, it seems to be formed of a kind of white stone that shines faintly in the light of the rising moon. A lone pine tree stands starkly in the center of the tiny island. And below the pine tree stands a dark figure. Could this be what-- who-- you are looking for?
+\n\n\t\t\tWithout your encouragement, the dragon glides down to alight next to the palm tree. You dismount cautiously, looking around for the person you saw from above. By now, it is dark, the island lit only by the moon and the glow that seems to emanate from the white stone. “Hello,” says a familiar voice, and you spin to see the face of the other apprentice.
+\n\n\t\t\t“Blaise,” you gasp, startled, “I haven’t seen you in ages!” You look more closely at the boy. He is wearing deep black armor, polished to a sheen. There are not one but two scabbards at his waist, and his eyes are colder than you have ever seen them. You wonder what his path was to get here.
+\n\n\t\t\t“No,” he says, “you haven’t, have you?” There is something brittle about his voice. In your village, he was never kind, never well-loved, but the way he seems now is new. He pauses, looking up at the moon. “Do you know, when I was traveling, there was a fortune-teller who told me a prophecy?”
+\n\n\t\t\t“I must have taken a different path.”
+\n\n\t\t\tHe ignores you. “She told me that if two apprentices met along the way, only one would go on to become a true mathemagician.”
+\n\n\t\t\tBehind you, the dragon growls softly, but Blaise continues. “And I really do want to become a mathemagician. But I’m not a cheater. I’ll make this a fair fight.” He reaches for one of his scabbards, and you stiffen. But he pulls out a sword made of the same rock as the island and hands it, hilt-first, to you. It feels odd in your hands, almost wrong.
+        \n\n\t\t\tYou shake your head and hand it back to him. “No. If I am to be a mathemagician, I’ll use a mathemagician’s weapon, not a warrior’s.” And you mean it. Suddenly, you can see symbols and problems everywhere, from the integrals covering the rocks to the sigmas that make up the pine tree’s bark.
+\n\n\t\t\tThe ghost of a smirk plays over his face. “Suit yourself,” he says, resheathing the sword and drawing a wickedly sharp obsidian one for himself. A problem shimmers on the breastplate of his armor, and you realize you must make a choice: wait for Blaise to make a move or attack him first.
+</string>
+
+
+    <string name="story97">\t\t\tAs you wait for Blaise to attack, you ready a shield made with the power of checking your work. It glows a faint green in the corners of your vision. The other apprentice, when he comes at you, attacks not with mathemagic but with the obsidian sword. It bounces uselessly off your shield. Behind you, the Partial Fraction Decompodragon snarls and releases a jet of flame just as you send a stream of polar graphs spiraling towards Blaise. He ducks the flame but not the graphs, which knock him several feet back. Again, he advances, seemingly avoiding using mathemagic in favor of the sword. You wonder why he is neglecting his best weapon, but it doesn’t stop you from disarming him with an endlessly-long chain of divergent series. He curses the name of Newton and strikes with a dagger against your shield, which is beginning to give as you grow tired. But for now, the shield holds.
+\n\n\t\t\tAnd so it goes, magic against swordplay, brains against brawn. In a matter of minutes, you are left holding Blaise’s own sword at his neck. He glares at you with a mixture of hatred and resignation. “Go ahead. Do it. You know that I would.” But you aren’t sure if you can bring yourself to kill the other apprentice. Should you force yourself to do it, or should you have mercy on him? A problem traces itself in the air above his head, and you hope it will give you the answer you are searching for.
+</string>
+
+
+    <string name="story98">\t\t\tDrawing to mind everything you can remember of position, velocity, and acceleration, you shape a ball of purple light with your hands and hurl it at Blaise. He ducks and swings his obsidian sword; you dodge just in time to avoid the blow. Behind you, the Partial Fraction Decompodragon snarls and lunges at the other apprentice. You can only watch, breathless and helpless, as Blaise meets claw with sword and tooth with a dagger he draws from his wrist guard. You dare not call on your mathemagic now for fear of hurting the dragon.
+\n\n\t\t\tSuddenly, the Partial Fraction Decompodragon lets out a roar. Blaise has managed to strike it in the right side, and golden ichor is streaming from its wound. You send a blast of blue differentiation in Blaise’s direction, but it is too late. He stabs the Partial Fraction Decompodragon again and again until it no longer struggles, your magic bouncing off the shield that he has created with the dark knowledge of curved examinations.
+\n\n\t\t\t“No!” you cry, rushing to the dragon’s side. You throw a wave of power series so strong that Blaise’s shield shatters temporarily; the impact knocks the boy clear to the other side of the island. But you know that the time you have bought is only temporary. Do you use it to grieve over the Partial Fraction Decompodragon’s body or to mount an assault on Blaise? In the pooling ichor of the dragon, you see another problem:
+</string>
+
+
+    <string name="story99">\t\t\tBlaise starts to struggle up from the rocks, but you no longer care. Your vision blurs with tears. You attempt to send out a net of parametric functions to heal the Partial Fraction Decompodragon, but the shimmering Xs and Ys fizzle before they reach it. The dragon’s time is up. It takes one last shallow breath-- in, then out-- and the spark in its amber eyes dies.
+\n\n\t\t\t“No,” you whisper. “I’m so sorry.” But the dragon is no longer there to hear you. The tears pricking at the corners of your eyes spill out onto your cheeks. There is a faint ringing in your ears.
+\n\n\t\t\tIn your grief, you do not realize that Blaise has made his way behind you. You let out a soft gasp as his obsidian sword pierces your back and exits through your stomach. He pulls the blade out, and you crumple to the ground, seeing no more.
+</string>
+
+
+    <string name="story100">\t\t\tBlaise starts to struggle up from the rocks; your vision blurs with tears, but you push them angrily aside. Whipping around from the stilling body of the Partial Fraction Decompodragon, you send problem after problem barreling at Blaise. The spells batter him until he begs for mercy, snot and blood running out of his nose. But you do not grant him mercy. Instead, you use your magic to lift him up and slam him down against the rocks again and again. You hardly hear his screaming. You do not notice that, even as you continue to attack him, he has stopped moving entirely.
+\n\n\t\t\tThere is a slight shimmering in the air. The color of, then the shape of, then finally the Great Shay himself appears before you. A small frown pinches his face. “This…”
+\n\n\t\t\tPanting, you realize what you have done. Blood and ichor spatter the white rock, the moon casting dark shadows.
+\n\n\t\t\t“This,” continues the Great Shay, “is not what mathemagic is about. I cannot make you a mathemagician of the Fifth Order, and I do not think anyone will.” He shakes his head sadly and opens his mouth as if to say something else, then shuts it again. Before you can respond, he vanishes once more, leaving you alone on the island with nothing but the two corpses. The pine tree stands tall and quiet above the gory scene.
+</string>
+
+
+    <string name="story101">\t\t\tAngrily, you push aside any thoughts of mercy. The Partial Fraction Decompodragon bares its teeth at Blaise and, despite himself, he blanches.
+\n\n\t\t\t“I’ll make it quick,” you say. Perhaps that is mercy enough for a boy who tried to kill you.
+\n\n\t\t\tHe stares you dead in the eye and wrinkles his nose in contempt. “I am not sure I would.” You wonder again what has happened to make him become this, but you shake your head to clear it. It doesn’t matter now.
+\n\n\t\t\tSteeling yourself, you raise the sword from Blaise’s neck and stab it into his chest. He twitches, a fountain of red rising from the wound and spurting onto the rocks below. It looks almost garish in the moonlight.
+\n\n\t\t\tThere is a slight shimmering in the air. The color of, then the shape of, then finally the Great Shay himself appears before you. A small frown pinches his face. “This…”
+\n\n\t\t\tPanting, you realize the magnitude of what you have done. Blood spatters the white rock, the moon casting shadows on the rocks.
+\n\n\t\t\t“This,” continues the Great Shay, “is not what mathemagic is about. I cannot make you a mathemagician of the Fifth Order, and I do not think anyone will.” He shakes his head sadly. “I will return you to your village. But you must explain what you have done to this boy’s family.”
+\n\n\t\t\tWith a flash of light, the both of you vanish, leaving the bloodsoaked scene behind.
+</string>
+
+
+</resources>
