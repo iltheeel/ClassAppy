@@ -4,6 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:padding="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp"
     tools:context="com.example.liaiwei.mathfinal.page23">
 
     <LinearLayout
@@ -63,11 +68,14 @@
 
         <ImageButton
             android:id="@+id/aa"
-            android:layout_width="wrap_content"
+            android:layout_width="150dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:cropToPadding="false"
             android:layout_gravity="center"
-            android:src="@drawable/p23a2"
+            android:scaleType="fitXY"
+            android:src="@drawable/p23aedit"
             android:onClick="launch25" />
 
         <ImageButton

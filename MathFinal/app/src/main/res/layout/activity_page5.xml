@@ -54,7 +54,7 @@
 
                 <ImageView
                     android:id="@+id/imageView3"
-                    android:layout_width="350dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="50dp"
                     app:srcCompat="@drawable/p5problem" />
 
@@ -66,8 +66,8 @@
             android:id="@+id/cc"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center"
             android:layout_weight="1"
+            android:layout_gravity="center"
             android:src="@drawable/p5a3"
             android:onClick="launch8" />
 

@@ -4,6 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:padding="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp"
     tools:context="com.example.liaiwei.mathfinal.page25">
 
     <LinearLayout
@@ -45,17 +50,25 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="@string/story5"
-                    android:textSize="18sp"
+                    android:text="@string/story25"
                     android:textColor="@android:color/black"
+                    android:textSize="18sp"
                     tools:layout_editor_absoluteX="71dp"
                     tools:layout_editor_absoluteY="35dp" />
 
                 <ImageView
                     android:id="@+id/imageView3"
-                    android:layout_width="350dp"
-                    android:layout_height="50dp"
-                    app:srcCompat="@drawable/p5problem" />
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/p25p" />
+
+                <ImageView
+                    android:id="@+id/imageView53"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/p25pp" />
+
 
             </LinearLayout>
         </ScrollView>
@@ -67,8 +80,8 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:src="@drawable/p5a3"
-            android:onClick="launch8" />
+            android:src="@drawable/p25a1"
+            android:onClick="launch26" />
 
         <ImageButton
             android:id="@+id/aa"
@@ -76,8 +89,8 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_gravity="center"
-            android:src="@drawable/p5a1"
-            android:onClick="launch6" />
+            android:src="@drawable/p25a2"
+            android:onClick="launch27" />
 
         <ImageButton
             android:id="@+id/bb"
@@ -85,8 +98,8 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_gravity="center"
-            android:src="@drawable/p5a2"
-            android:onClick="launch7" />
+            android:src="@drawable/p25a3"
+            android:onClick="launch28" />
 
     </LinearLayout>
 

@@ -62,7 +62,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_weight="1"
-                    android:src="@drawable/p9a2"
+                    android:src="@drawable/p9a2edit"
                     android:baseline="@dimen/fab_margin"
                     android:onClick="launch13"
                  />
@@ -73,7 +73,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_weight="1"
-                    android:src="@drawable/p9a3"
+                    android:src="@drawable/p9a3edit"
                     android:onClick="launch14" />
 
                 <ImageButton
@@ -82,7 +82,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_weight="1"
-                    android:src="@drawable/p9a1"
+                    android:src="@drawable/p9a1edit"
                     android:onClick="launch12"
                     />
 
