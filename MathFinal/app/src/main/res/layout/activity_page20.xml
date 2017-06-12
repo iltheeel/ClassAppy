@@ -51,16 +51,25 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="@string/story20"
-                    android:textSize="18sp"
                     android:textColor="@android:color/black"
+                    android:textSize="18sp"
                     tools:layout_editor_absoluteX="71dp"
                     tools:layout_editor_absoluteY="35dp" />
 
                 <ImageView
                     android:id="@+id/imageView3"
-                    android:layout_width="350dp"
-                    android:layout_height="50dp"
-                    app:srcCompat="@drawable/p20problem" />
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/p20p" />
+
+
+                <ImageView
+                    android:id="@+id/imageView33"
+                    android:layout_width="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    app:srcCompat="@drawable/p20pp" />
 
             </LinearLayout>
         </ScrollView>

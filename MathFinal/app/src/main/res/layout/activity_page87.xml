@@ -85,7 +85,7 @@
 
         <ImageButton
             android:id="@+id/bb"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
@@ -97,11 +97,11 @@
 
         <ImageButton
             android:id="@+id/aa"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_gravity="center"
-            android:src="@drawable/p87a2"
+            android:src="@drawable/p87aedit"
             android:adjustViewBounds="true"
             android:cropToPadding="false"
             android:scaleType="fitXY"

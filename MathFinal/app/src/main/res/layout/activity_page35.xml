@@ -75,7 +75,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:onClick="launch38"
+            android:onClick="launch37"
             android:src="@drawable/p35a3" />
 
         <ImageButton
@@ -85,7 +85,7 @@
             android:layout_weight="1"
             android:layout_gravity="center"
             android:src="@drawable/p35a2"
-            android:onClick="launch37" />
+            android:onClick="launch38" />
 
         <ImageButton
             android:id="@+id/cc"

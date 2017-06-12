@@ -47,16 +47,23 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text="@string/story5"
-                    android:textSize="18sp"
                     android:textColor="@android:color/black"
+                    android:textSize="18sp"
                     tools:layout_editor_absoluteX="71dp"
                     tools:layout_editor_absoluteY="35dp" />
 
                 <ImageView
                     android:id="@+id/imageView3"
                     android:layout_width="wrap_content"
-                    android:layout_height="50dp"
-                    app:srcCompat="@drawable/p5problem" />
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/p5p" />
+                <ImageView
+                    android:id="@+id/imageView33"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/p5pp" />
 
             </LinearLayout>
         </ScrollView>
