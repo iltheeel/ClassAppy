@@ -82,7 +82,7 @@
             android:layout_gravity="center"
             android:layout_weight="1"
             android:src="@drawable/p20a1"
-            android:onClick="launch48" />
+            android:onClick="launch49" />
 
         <ImageButton
             android:id="@+id/aa"
@@ -91,7 +91,7 @@
             android:layout_weight="1"
             android:layout_gravity="center"
             android:src="@drawable/p20a2"
-            android:onClick="launch49" />
+            android:onClick="launch48" />
 
         <ImageButton
             android:id="@+id/bb"

@@ -150,11 +150,11 @@
     <string name="story22">\t\t\tThe cave door remains firmly shut. “Let me look at it,” says Blaise roughly, pushing past you. He spares a single glance at the problem before rolling his eyes.  “How could you get this wrong?” He presses B and slips through as the door grinds open. You make to follow him, but the door slams shut in your face, the inscription and panels vanishing into the rock. Clearly, you will have to find another way in.</string>
 
     <string name="story23">\t\t\tYou poke around the base of the cave, looking for some entrance you might have missed. Surely, one chance cannot be all you get. Indeed, after a couple minutes of looking, you spot an inscription on the opposite side of the cave.
-\n\nUnlock me with codeword or key,
-\nOr else wait before me and see.
-\nWhatever your choice, you can never look back;
-\nFor better or worse, you have chosen your track.
-\n\nSomeone has scratched a messy A above “codeword,” a B above “key,” and a C above “wait.” Below the poem, there is an integral. Unsurprisingly, it has three answer choices: A, B, and C.
+\n\n<i>Unlock me with codeword or key,</i>
+\n<i>Or else wait before me and see.</i>
+\n<i>Whatever your choice, you can never look back;</i>
+\n<i>For better or worse, you have chosen your track.</i>
+\n\n\t\t\tSomeone has scratched a messy A above “codeword,” a B above “key,” and a C above “wait.” Below the poem, there is an integral. Unsurprisingly, it has three answer choices: A, B, and C.
 </string>
 
     <string name="story24">\t\t\tYou wait. The cave door stands still, mocking you. It takes the
@@ -370,7 +370,7 @@
 
     <string name="story64">\t\t\tYou close the mosaic door behind you as you step out onto the floor of a large stone arena. Intricately carved columns rise from the ground next to you into the clear blue of the sky  above. In the stands, the crowd lets out a thousands-strong roar. Where, you wonder, are the contestants? You look around the floor, but the only person on the stage of the arena is you.
 \n\n\t\t\tThere is a sinking sensation in the pit of your stomach as the truth hits you. You cast around frantically for an exit, but just then, a dragon explodes from one of the arena’s other doors. Wait, that’s not just any dragon! That’s the Partial Fraction Decompodragon! The crowd cheers even louder, but your heart sinks. There’s no way for you to know what to do here. Unless… when Shay sent you off, you remember, he had only two pieces of advice. The first was to trust in your own numerical knowledge. The second was to trust in your own intuition.
-Intuition. Thinking off the top of your head, you can think of only three things you might be able to do and survive: tame the dragon, run away from the dragon, and fight the dragon. Trusting your intuition, you randomly assign each a letter (A to tame, B to run, and C to fight). You are just about to choose when the Partial Fraction Decompodragon breathes fire-- and the flame twists into a PFD problem. That can’t be a coincidence.
+Intuition. Thinking off the top of your head, you can think of only three things you might be able to do and survive: tame the dragon, run away from the dragon, and fight the dragon. Trusting your intuition, you randomly assign each a letter (A to tame, B to run, and C to fight). You are just about to choose when the Partial Fraction Decompodragon breathes fire-- and the flame twists into a problem. That can’t be a coincidence.
 </string>
 
 

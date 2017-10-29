@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/dragonpc"
+        android:icon="@drawable/dracon"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/dragonpc"
+        android:roundIcon="@drawable/dracon"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <activity android:name=".OpenPage">

@@ -15,6 +15,7 @@ public class OpenPage extends AppCompatActivity {
         setContentView(R.layout.activity_open_page);
 
 
+
         buttonmcbuttony = (Button) findViewById(R.id.enter);
         buttonmcbuttony.setOnClickListener(new View.OnClickListener(){
             @Override

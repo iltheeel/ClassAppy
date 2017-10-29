@@ -89,7 +89,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="1"
-            android:onClick="launch96"
+            android:onClick="launch94"
             android:adjustViewBounds="true"
             android:cropToPadding="false"
             android:scaleType="fitXY"
@@ -105,7 +105,7 @@
             android:adjustViewBounds="true"
             android:cropToPadding="false"
             android:scaleType="fitXY"
-            android:onClick="launch94" />
+            android:onClick="launch96" />
 
     </LinearLayout>
 
